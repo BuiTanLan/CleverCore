@@ -29,15 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleverCore.WebApi", "Clever
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Tests", "5 - Tests", "{03A1512C-DBFA-41BF-B241-08FE251FECEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverCore.Infrastructure.Test", "CleverCore.Infrastructure.Test\CleverCore.Infrastructure.Test.csproj", "{DC55324D-5B60-4929-88CF-3AC56828D4D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleverCore.Infrastructure.Test", "CleverCore.Infrastructure.Test\CleverCore.Infrastructure.Test.csproj", "{DC55324D-5B60-4929-88CF-3AC56828D4D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverCore.Utilities.Test", "CleverCore.Utilities.Test\CleverCore.Utilities.Test.csproj", "{F0A2ED15-FAB8-480A-9357-69EA5D85C674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleverCore.Utilities.Test", "CleverCore.Utilities.Test\CleverCore.Utilities.Test.csproj", "{F0A2ED15-FAB8-480A-9357-69EA5D85C674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverCore.Data.EF.Test", "CleverCore.Data.EF.Test\CleverCore.Data.EF.Test.csproj", "{0B9DE5B5-60EB-4261-BE49-E37549429A21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleverCore.Data.EF.Test", "CleverCore.Data.EF.Test\CleverCore.Data.EF.Test.csproj", "{0B9DE5B5-60EB-4261-BE49-E37549429A21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverCore.WebApi.Test", "CleverCore.WebApi.Test\CleverCore.WebApi.Test.csproj", "{3829B134-B06D-4ABF-AA68-E5A1556A3431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleverCore.WebApi.Test", "CleverCore.WebApi.Test\CleverCore.WebApi.Test.csproj", "{3829B134-B06D-4ABF-AA68-E5A1556A3431}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clever.WebApp.Test", "Clever.WebApp.Test\Clever.WebApp.Test.csproj", "{1CC24B4F-B701-416B-8676-A1E387CEA40D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleverCore.WebApp.Test", "CleverCore.WebApp.Test\CleverCore.WebApp.Test.csproj", "{237AB7AE-E4DD-4B81-AD26-326519F3BB8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,10 +93,10 @@ Global
 		{3829B134-B06D-4ABF-AA68-E5A1556A3431}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3829B134-B06D-4ABF-AA68-E5A1556A3431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3829B134-B06D-4ABF-AA68-E5A1556A3431}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1CC24B4F-B701-416B-8676-A1E387CEA40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1CC24B4F-B701-416B-8676-A1E387CEA40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1CC24B4F-B701-416B-8676-A1E387CEA40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1CC24B4F-B701-416B-8676-A1E387CEA40D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237AB7AE-E4DD-4B81-AD26-326519F3BB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237AB7AE-E4DD-4B81-AD26-326519F3BB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237AB7AE-E4DD-4B81-AD26-326519F3BB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237AB7AE-E4DD-4B81-AD26-326519F3BB8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,7 +114,7 @@ Global
 		{F0A2ED15-FAB8-480A-9357-69EA5D85C674} = {03A1512C-DBFA-41BF-B241-08FE251FECEE}
 		{0B9DE5B5-60EB-4261-BE49-E37549429A21} = {03A1512C-DBFA-41BF-B241-08FE251FECEE}
 		{3829B134-B06D-4ABF-AA68-E5A1556A3431} = {03A1512C-DBFA-41BF-B241-08FE251FECEE}
-		{1CC24B4F-B701-416B-8676-A1E387CEA40D} = {03A1512C-DBFA-41BF-B241-08FE251FECEE}
+		{237AB7AE-E4DD-4B81-AD26-326519F3BB8D} = {03A1512C-DBFA-41BF-B241-08FE251FECEE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BDD37A10-3F44-4006-96E9-0F63F1506ACC}
